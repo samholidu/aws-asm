@@ -1,0 +1,2 @@
+boto3
+./pkgs/samasm-0.2.0-py3-none-any.whl
