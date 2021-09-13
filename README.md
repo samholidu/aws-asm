@@ -21,4 +21,5 @@ pip3 install -r requirements.txt
 Secret Key: MzM3Y2Q1
 Secret Value: rv9bF5YNeA(V
 
+NOTE: Above values are just sample values which donot corrosponds to any secret.
 ```
